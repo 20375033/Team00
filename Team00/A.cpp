@@ -1,12 +1,7 @@
 #include "A.h"
 #include <stdio.h>
 
-int main ( )
+void APrint()
 {
-	APrint( ) ;
+	printf("A\n") ;
 }
-
-
-
-
-
